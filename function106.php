@@ -18,6 +18,6 @@
     //4.Arrow function
     $multply = fn($a,$b)=>array($a,$b);
     [$a,$b] = $multiply(100,2);
-    pritnt($a/$b);
+    print($a/$b);
 
 ?>
